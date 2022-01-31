@@ -17,10 +17,6 @@ Wenn die Seite fertig zum Release bereit ist, einfach folgenden Befehl ausführe
 npm run generate
 ```
 
-Der Blogbeitrag zu diesem Beispiel ist hier zu finden:
-
-[https://gue.codes/blog/ein-statischer-blog-mit-nuxt-js-und-dem-content-modul](https://gue.codes/blog/ein-statischer-blog-mit-nuxt-js-und-dem-content-modul)
-
-Weiter führende Links:
+Weiterführende Links:
 
 [Nuxt.js Content Modul](https://content.nuxtjs.org/)
